@@ -8,7 +8,8 @@
 	full-fledged	jarring 		standpoint		ignorance		entail
 	dreaded			pyramid			inert			hooray			anemic
 	bummer			noob			symmetric		parody			stinker
-	troll-like		derived
+	troll-like		insurmountable  derived			mandate			finer-grained
+	shim			ponder			mercurial		misnomer
 
 *Adverb*
 
@@ -25,13 +26,15 @@
 	usually			suddenly		individually 	easily			newly
 	literally		asynchronously	seemingly		constantly		fortunately
 	eventually		already			shortly			properly		intentionally
-
+	imprudently		potentially		generally		clearly			strictly
+	unfortunately	alarmingly
 
 *Conjunction*
 
 	furthermore		together		however/but 	for example  		for instance
 	in other words 	in such cases 	if..., and...	in addition (to)	in the meantime
-	by default		instead, ...	
+	by default		instead, ...	only then		then, and then..., and so on
+	by comparison	In fact, ...	
 
 *Phrases*
 
@@ -43,11 +46,13 @@
 	as per			to be precise 		usability standpoint	get acquainted
 	to the rescue	pyramid of doom 	it's analogous to 		in conjunction with		
 	worth the risk  talk sb ear off		in the sense that		from the perspective of
-	spat out		
+	spat out		it's tempting to 	bring sth to a halt		bread and butter
+	defer to
 	
 *Sentence*
 
 	Now on to the nuts and bolts.	 	Keep that under your pillow at nights.
 	sink one's teeth into the meat		for the purpose of this example
-	but in a majority of cases			
+	but in a majority of cases			one implication of this is that...
+	The converse is also true: ...		That concludes our brief overview of ...
 

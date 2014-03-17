@@ -14,7 +14,7 @@
 	delusional		most-hyped		infringement	schlep			counterproductive
 	rip-off			featureless		cripple			demystify		disparagement
 	needless		homogeneous		clout			prerequisite	half-assed
-	codify			know-how
+	codify			know-how		revelation		newbie			ado
 
 *Adverb*
 
@@ -35,7 +35,8 @@
 	unfortunately	alarmingly		periodically	slightly		uncertainly
 	apparently		radically		incredibly		certainly		surprisingly
 	uniquely		cleverly		obviously		essentially 	invariably
-	collectively	fairly			merely
+	collectively	fairly			merely			comically		dauntingly
+	seriously
 
 *Conjunction*
 
@@ -59,7 +60,8 @@
 	defer to 		in opposition to 	enormous size 			heavyweight architecture
 	cut through 	be obsessed with 	the victims of hype		copyright infringement
 	Joy Buzzer 		Whoopee Cushion		take precedence over 	interoperability hassles
-	failure points  a matter of folklore scalability problems
+	failure points  a matter of folklore scalability problems	to say the least
+
 
 *Sentence*
 
@@ -72,3 +74,4 @@
 	make sth improvement on its rivals	With tongue only slightly in cheek we can say that..
 	keep sth scalable up to ... 		there is no essential difference ...
 	The effect is that ...				as a fairly gentle term of disparagement
+	This is where sth comes into play.	
